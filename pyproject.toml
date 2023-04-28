@@ -12,6 +12,7 @@ numpy = "^1.24.3"
 pandas = "^2.0.1"
 pytest = "^7.3.1"
 statsmodels = "^0.13.5"
+python-decouple = "3.8"
 
 
 [build-system]
